@@ -17,3 +17,6 @@ Based on the plugins by CartThrob:
 * [shipping-quantity-threshold-plus-options](https://github.com/CartThrob/shipping-quantity-threshold-plus-options)
 * [shipping-quantity-threshold-plus-per-item-override](https://github.com/CartThrob/shipping-quantity-threshold-plus-per-item-override)
 * [cartthrob-shipping-by_location_weight_threshold_w_options](https://github.com/CartThrob/cartthrob-shipping-by_location_weight_threshold_w_options)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/domtancredi/shipping-quantity-location-item-itemtype/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
